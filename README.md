@@ -1,2 +1,5 @@
 Michael Bobrowski
-in branch
+favorite git commands:
+```
+add, commit, push, pull
+```
